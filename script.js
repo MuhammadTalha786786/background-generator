@@ -9,5 +9,3 @@ color2.addEventListener("input", function () {
   body.style.background =
     "linear-gradient(to right," + color1.value + "," + color2.value + ")";
 });
-var name = "Muhammad Talha";
-console.log(name);
